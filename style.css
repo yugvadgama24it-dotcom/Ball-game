@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+canvas {
+    display: block;
+}
+#ui {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    pointer-events: none;
+}
